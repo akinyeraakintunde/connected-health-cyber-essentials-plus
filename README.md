@@ -1,124 +1,148 @@
-# Cyber Essentials PLUS – Technical Contribution at Connected Health
+# Cyber Essentials PLUS – Technical Contribution (Connected Health, Belfast)
 
-This repository documents my **technical contribution to helping Connected Health (Belfast) achieve Cyber Essentials PLUS certification**.
+This repository supports **Evidence 5** of my UK Global Talent Visa application.  
+It documents my **technical contribution** to helping Connected Health, one of Northern Ireland’s largest domiciliary care organisations, achieve **Cyber Essentials PLUS certification** for the first time.
 
-It includes:
+The repo includes:
 
-- A written evidence document (PDF) used in my UK Global Talent application
-- Screenshots showing management recognition
-- Photos from the technical operations environment
-- Proof of my integration in the organisation
-
----
-
-## 1. Context
-
-**Organisation:** Connected Health, Belfast, Northern Ireland  
-**Role:** IT / Technical Support – Cyber Essentials project contributor  
-**Certification:** Cyber Essentials PLUS (UK Government–backed cyber security scheme)
-
-Connected Health is a large domiciliary care provider handling sensitive personal and health data. Achieving Cyber Essentials PLUS was an important step in improving security posture and meeting UK expectations for cyber hygiene.
+- ✔️ Management recognition for my contribution  
+- ✔️ Photos from the technical operations environment  
+- ✔️ Evidence of integration into the organisation  
+- ✔️ The official 2–3 page Evidence document (PDF)  
+- ✔️ Tech Nation relevance summary  
 
 ---
 
-## 2. My Contribution
+## 📌 1. About the Organisation
 
-As part of the internal technical team, I contributed to:
+**Connected Health (Belfast)** is a large domiciliary care provider with:
 
-### Device & Endpoint Security
+- 25+ branches across Northern Ireland  
+- 1,000+ staff  
+- High-volume systems handling sensitive personal and health data  
 
-- Auditing staff laptops and devices
-- Confirming antivirus installation and update status
-- Verifying operating system patch levels
-- Checking firewall settings and inbound-blocking rules
-- Supporting drive encryption and secure configuration
-
-### User Access & Authentication
-
-- Reviewing user account permissions and access levels
-- Supporting the rollout of multi-factor authentication (MFA)
-- Ensuring remote access followed Cyber Essentials guidelines
-
-### Documentation & Evidence for the Assessor
-
-- Gathering screenshots and logs for the external assessor
-- Updating device-compliance spreadsheets
-- Responding to follow-up questions from management and auditors
-- Helping to explain technical details of the configuration changes
-
-These activities mapped directly to the five Cyber Essentials control areas:
-
-1. Firewalls & routers  
-2. Secure configuration  
-3. User access control  
-4. Malware protection  
-5. Security update management  
+Cyber Essentials PLUS is a UK Government–backed certification that verifies cyber readiness and secure system configuration.
 
 ---
 
-## 3. Recognition from Management
+## 📌 2. My Technical Contribution
 
-As a thank you for my work, I received a personal card and gift from Connected Health management.
+As part of the technical operations team, I contributed directly to the organisation’s successful Cyber Essentials PLUS certification through:
 
-![Recognition card](images/recognition_card.jpg)
+### 🔐 A. Device & Endpoint Security
+- Conducting **device audits** across staff laptops  
+- Verifying **OS patch levels** and secure configuration  
+- Ensuring **anti-malware tools** were installed & updated  
+- Checking **firewall rules**, port restrictions & network protections  
+
+### 👤 B. User Access & MFA Compliance
+- Supporting the rollout of **Multi-Factor Authentication (MFA)**  
+- Verifying user access level alignment with **least-privilege principles**  
+- Ensuring remote access controls met Cyber Essentials requirements  
+
+### 📝 C. Audit Preparation & Documentation
+- Collecting evidence (screenshots, logs, compliance data)  
+- Updating security spreadsheets for the external assessor  
+- Assisting with queries during the audit  
+- Helping validate risk-related technical decisions  
+
+These tasks align with the five Cyber Essentials control areas:
+
+1. Firewalls & Internet Gateways  
+2. Secure Configuration  
+3. User Access Control  
+4. Malware Protection  
+5. Patch Management  
+
+---
+
+## 📌 3. Management Recognition (Proof)
+
+As part of the certification celebration, I received **personal recognition** from Connected Health management:
+
+![Recognition Card](images/recognition_card.jpg)
 
 > “Thank you for your hard work + dedication towards achieving our cyber essentials plus certification!  
 > Congratulations! – Rebecca”
 
-This informal but powerful recognition shows that my contribution was visible and valued inside the organisation.
+This confirms my contribution was both **real** and **valued**.
 
 ---
 
-## 4. Technical Team & Workspace
+## 📌 4. Technical Team Involvement
 
-I worked as part of the technical operations team, based in the Connected Health office.
+I worked directly within the technical operations team supporting Cyber Essentials checks.
 
-![Technical team](images/tech_team.jpg)
+![Technical Team](images/tech_team.jpg)
 
-The photo above shows me with colleagues in the technical workspace where we carried out:
+This photo shows me on-site during the certification process at the Connected Health IT workspace.
 
-- Device configuration checks  
-- MFA setup support  
-- Network and endpoint testing
+---
+
+## 📌 5. Technical Workspace (Evidence of Hands-on Contribution)
 
 ![Workspace](images/workspace.jpg)
 
-The workspace image illustrates the environment used for hardware checks, system configuration and audit preparation.
+This workspace is where I performed:
+
+- MFA setup checks  
+- Device configuration reviews  
+- Patch and update verification  
+- Security hardening activities  
 
 ---
 
-## 5. Company Event & Integration
+## 📌 6. Company Event Integration (Identity & Trust)
 
-I was also invited to internal Connected Health events, confirming my role within the organisation.
+![Event Name Tag](images/event_name_tag.jpg)
 
-![Event name tag](images/event_name_tag.jpg)
-
-This name card from a Connected Health event shows my full name and the company branding, linking me clearly to the organisation.
+This internal company event tag confirms my identity, name, and affiliation with Connected Health.
 
 ---
 
-## 6. Evidence Document (PDF)
+## 📌 7. Evidence PDF
 
-The full 2–3 page evidence document used in my UK Global Talent application is included here:
+📄 **Download the full 2–3 page Evidence Document:**  
+👉 [Evidence_5_Cyber_Essentials_Ibrahim_Akinyera.pdf](Evidence_5_Cyber_Essentials_Ibrahim_Akinyera.pdf)
 
-**Evidence 5 – Cyber Essentials Technical Contribution (Ibrahim Akinyera)**  
-`Evidence_5_Cyber_Essentials_Ibrahim_Akinyera.pdf`
+This includes:
 
-It summarises:
-
-- The Cyber Essentials PLUS context  
-- My technical responsibilities  
-- The outcome (successful certification)  
-- How this work supports my Global Talent “Optional – Recognition” criterion  
+- Summary of my technical contributions  
+- Explanation of Cyber Essentials PLUS  
+- Appendix with all supporting images  
+- Clear alignment with Tech Nation requirements  
 
 ---
 
-## 7. Relevance to UK Global Talent (Tech)
+## 📌 8. Tech Nation Relevance
 
-This work demonstrates that I have:
+This evidence supports the **Optional Criterion: Recognition for Work Beyond Normal Duties**.
 
-- Delivered **real-world, security-sensitive technical work** in a UK organisation  
-- Contributed directly to a **nationally recognised security certification**  
-- Been **recognised by management** for my effort and expertise  
+### ✔ Why this meets Tech Nation requirements:
 
-It forms one of my supporting evidences under the **Optional Criterion: recognition for work outside of normal duties / significant technical contribution**.
+- **Demonstrates cybersecurity expertise** in a real UK organisation  
+- **Shows direct contribution** to a nationally recognised certification  
+- **Includes external/internal recognition** from management  
+- **Shows measurable impact** (certificate achieved)  
+- **Proves trust and responsibility** within a sensitive data environment  
+- **Provides photo evidence** of my onsite technical role  
+
+See also the file:  
+**TECH_NATION_EVIDENCE.md** for a clean summary.
+
+---
+
+## 📌 9. Related Evidence Repositories
+
+- **Evidence 1 – NxtAbroad AI** (Innovation & Technical Leadership)  
+- **Evidence 3 – Twitter NLP Classifier (Deep Learning/NLP)**  
+- **Evidence 4 – Enterprise Risk Intelligence Engine (AI + Cybersecurity)**  
+
+---
+
+## 📌 10. Author
+
+**Ibrahim Akintunde Akinyera**  
+Founder • Data Scientist • ML Engineer  
+Belfast & Nigeria  
+GitHub: https://github.com/akinyeraakintunde
