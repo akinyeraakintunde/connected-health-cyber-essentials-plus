@@ -104,4 +104,6 @@ This repository forms a key part of my Global Talent Visa (Tech Nation) evidence
 ---
 
 ## 📬 Contact
-For any professional or verification enquiries, please contact me via GitHub or LinkedIn.
+Email: akinyeraakintunde@gmail.com  
+Portfolio: https://akinyeraakintunde.github.io/Ibrahim-Akinyera  
+LinkedIn: https://www.linkedin.com/in/ibrahimakinyera
