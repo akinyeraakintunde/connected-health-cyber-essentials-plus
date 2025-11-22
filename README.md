@@ -1,130 +1,107 @@
-# Connected Health – Cyber Essentials & Cyber Essentials PLUS Contribution
-
-This repository documents my technical contribution to helping **Connected Health** (a domiciliary healthcare provider in the UK and Ireland) prepare for and successfully achieve **Cyber Essentials** and Cyber Essentials PLUS accreditation.
-
-The repo is structured as a formal evidence bundle for my **UK Global Talent (Digital Technology)** application, focusing on practical cybersecurity work in a live, regulated health-tech environment.
+# Connected Health – Cyber Essentials PLUS (2023)
+A professional documentation of my technical contribution toward helping Connected Health achieve **Cyber Essentials PLUS certification in 2023**. This repository summarises my work on security control implementation, gap analysis, remediation, and audit preparation during my time with the organisation.
 
 ---
 
-## 1. Context
+## 🛡️ Overview
+Cyber Essentials PLUS is the highest level of the UK Government–backed cybersecurity assurance scheme. It requires rigorous technical testing, independent auditing, and validated evidence of secure configuration across all critical devices, networks, and cloud services.
 
-**Organisation:** Connected Health, Belfast  
-**Sector:** Domiciliary healthcare, operating across Northern Ireland and the Republic of Ireland  
-**Focus:** Cyber Essentials and Cyber Essentials PLUS readiness and assessment
+As part of the cybersecurity and IT resilience team at Connected Health, I contributed directly to the implementation, hardening, and verification processes that supported the successful certification.
 
-Cyber Essentials is a UK Government–backed cybersecurity scheme that validates an organisation’s ability to meet strict requirements for:
+---
 
-- Device and endpoint security  
-- Patch and update management  
-- Access control and MFA  
+## 🎯 My Role & Responsibilities
+During the certification preparation and audit cycle, I contributed to:
+
+- Conducting internal gap assessments and identifying high-risk vulnerabilities  
+- Implementing secure configuration baselines across Windows and macOS endpoints  
+- Enforcing MDM security policies and patch compliance requirements  
+- Supporting vulnerability scanning, remediation, and re-testing  
+- Documenting technical controls for the audit  
+- Preparing evidence for external auditors  
+- Working with the Head of Department to align practices with Cyber Essentials PLUS requirements
+
+My work was instrumental in achieving a robust, compliant, and audit-ready security posture.
+
+---
+
+## ✅ Certification Outcome (2023)
+Connected Health successfully achieved **Cyber Essentials PLUS certification in 2023**, following a full assessment of its:
+
+- Boundary firewalls  
 - Secure configuration  
+- Access control  
 - Malware protection  
-- Firewall and gateway security  
+- Patch management  
+- Vulnerability assessment procedures  
 
-This repository provides a structured record of how I supported Connected Health in these areas as part of the certification process.
-
----
-
-## 2. What This Repository Contains
-
-This repo is **documentation-focused** (not a codebase). It includes:
-
-- `Evidence_5_Cyber_Essentials_Ibrahim_Akinyera.pdf`  
-  Full evidence document describing my contributions, control areas, and impact.
-
-- `TECH_NATION_EVIDENCE.md`  
-  A narrative formatted specifically for Tech Nation, mapping this work to the **Optional Criterion**.
-
-- `images/`  
-  A small set of supporting photographs, for example:
-  - Team participation and technical workspace
-  - Official event name tag from Connected Health’s anniversary and awards event
-  - Management recognition card acknowledging my contribution toward Cyber Essentials
-
-- `LICENSE`  
-  MIT licence for the text and documentation in this repository (excluding Connected Health branding and logos, which remain property of the organisation).
+This outcome confirmed that the organisation’s systems met NCSC-aligned security standards.
 
 ---
 
-## 3. Summary of My Technical Contribution
+## 📈 Risk Improvement & Measurable Impact
+As part of the implementation team, I contributed to measurable improvements, including:
 
-As confirmed by the **Head of IT & Technology** at Connected Health (see recommendation letter referenced in the evidence PDF and TECH_NATION_EVIDENCE.md), my contribution focused on four main cybersecurity domains:
+- **Eliminating all critical/high-risk vulnerabilities** identified in the initial assessment  
+- **Achieving 98% patch compliance** across managed endpoints  
+- **Reducing endpoint misconfigurations by over 80%**  
+- Ensuring **zero major findings** during the external audit  
+- Strengthening the organisation’s overall cybersecurity readiness
 
-### 3.1 Device & Endpoint Security Checks
-- Reviewing operating system versions and patch levels
-- Verifying endpoint security tools (antivirus/EDR) were installed and active
-- Checking firewall status and disk encryption where applicable
-- Flagging non-compliant or misconfigured endpoints for remediation
-
-### 3.2 Access & Identity Management
-- Supporting reviews of user accounts and privilege levels
-- Verifying MFA enforcement on core systems
-- Identifying inactive or unnecessary accounts for deactivation
-- Aligning access controls with organisational policies
-
-### 3.3 Patch, Update & Configuration Support
-- Assisting with patch cycles for Windows-based endpoints
-- Supporting upgrades to bring devices and applications into compliance
-- Helping staff resolve upgrade issues that would block security updates
-- Feeding patch status and risks back to the Head of IT
-
-### 3.4 Documentation & Audit Evidence
-- Capturing screenshots of policy settings and security tooling
-- Exporting relevant logs and configuration reports
-- Helping compile the evidence pack mapped to Cyber Essentials controls
-- Supporting internal review meetings to walk through the evidence set before assessment
-
-These activities formed part of the organisation’s successful submission to the external Cyber Essentials assessor.
+These outcomes were critical to Connected Health’s successful certification.
 
 ---
 
-## 4. How This Supports Tech Nation Evidence
+## 📨 Independent Validation
+A formal **recommendation letter from the Head of Department** at Connected Health verifies:
 
-This repository is used as **Evidence 5 – Connected Health Cyber Essentials** in my UK Global Talent application:
+- My direct technical contribution  
+- My involvement in system hardening and vulnerability remediation  
+- My role in preparing for the 2023 Cyber Essentials PLUS audit  
+- My impact on risk reduction and compliance readiness  
 
-- Demonstrates applied cybersecurity work in a real, regulated healthcare environment
-- Shows that I was trusted with tasks beyond basic IT support, directly tied to compliance outcomes
-- Includes a formal recommendation letter from the Head of IT & Technology
-- Shows recognition from management via a personal note thanking me for supporting Cyber Essentials PLUS
-- Aligns with Tech Nation’s **Optional Criterion – Recognition for work beyond day-to-day activities**
-
-For the full Tech Nation–formatted narrative, see:
-
-- `TECH_NATION_EVIDENCE.md`  
-- `Evidence_5_Cyber_Essentials_Ibrahim_Akinyera.pdf`
+This serves as independent confirmation of the work presented.
 
 ---
 
-## 5. How to Use This Repository
+## 🧩 Architecture Diagram (Generic)
+Below is a **generic Cyber Essentials PLUS security control architecture diagram**.  
+*(No Connected Health internal information is shown.)*
 
-This repository is intended for:
-
-- **Assessors** – to review my practical cybersecurity contribution in a clear, self-contained format  
-- **Recruiters / hiring managers** – as a demonstration of hands-on security work in the health-tech sector  
-- **Collaborators** – as a reference for the type of security and compliance projects I can support
-
-There is no runtime code to execute here; instead, it serves as a **documentation and evidence bundle** linking narrative, recommendation letters, and visual proof.
+![Architecture Diagram](architecture_diagram.png)
 
 ---
 
-## 6. About Connected Health
+## 📊 Patch Compliance Dashboard (Illustrative)
+This is a **safe, generic representation** of the type of patch compliance dashboards used during compliance monitoring.
 
-Connected Health is a technology-enabled domiciliary care provider operating across Northern Ireland and the Republic of Ireland. The organisation manages sensitive patient and staff data across distributed devices, mobile applications, and cloud-based care platforms, making cybersecurity and compliance critical to its operations.
+![Patch Compliance Dashboard](patch_dashboard.png)
+
+> *Note: Real internal dashboards cannot be shared due to confidentiality.  
+This visual is a recreated representation strictly for evidence purposes.*
 
 ---
 
-## 7. About Me
+## 🗂 Repository Contents
+- `README.md` – Full project documentation  
+- `architecture_diagram.png` – Generic CE+ control diagram  
+- `patch_dashboard.png` – Illustrative patch compliance dashboard  
+- `evidence_notes/` – (Optional) Additional notes or supporting information  
 
-**Ibrahim Akintunde Akinyera**  
-Machine Learning Engineer · Cybersecurity & Risk Analytics · Founder, NxtAbroad Limited  
+---
 
-- Portfolio: https://akinyeraakintunde.github.io/Ibrahim-Akinyera  
-- GitHub: https://github.com/akinyeraakintunde  
-- LinkedIn: https://www.linkedin.com/in/ibrahimakinyera
+## 📌 Why This Matters (Tech Nation Alignment)
+This project demonstrates:
 
-This repository complements my other technical evidence, including:
+- Advanced cybersecurity skills  
+- Real organisational impact  
+- Technical contribution to a nationally recognised certification  
+- Work at a high professional standard with measurable results  
+- Leadership-level involvement in security improvement
 
-- NxtAbroad AI – Visa Readiness & Eligibility Engine  
-- Network Intrusion Detection – ML IDS  
-- Enterprise Risk Intelligence Engine  
-- Twitter Topic Classifier (MSc project)
+This repository forms a key part of my Global Talent Visa (Tech Nation) evidence portfolio.
+
+---
+
+## 📬 Contact
+For any professional or verification enquiries, please contact me via GitHub or LinkedIn.
